@@ -7,8 +7,8 @@
         {
             "type": "chrome",
             "request": "launch",
-            "name": "Open index5.html",
-            "file": "d:\\SEM5\\RPL-ADSI\\HeroBiz\\index5.html"
+            "name": "Open index.html",
+            "file": "d:\\SEM5\\RPL-ADSI\\HeroBiz\\index.html"
         }
     ]
 }
